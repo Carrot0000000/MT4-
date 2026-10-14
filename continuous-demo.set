@@ -1,0 +1,12 @@
+AutoEntries=true
+RiskPercent=3
+PracticeCapitalUSD=500
+MaximumLots=0.01
+CooldownMinutes=5
+MaximumHoldMinutes=20
+RoundTripFeePerLotUSD=7
+SlippagePoints=20
+EntryWindowSeconds=120
+MaxSpreadFraction=0.20
+EntryDriftATR=0.25
+EnableForwardResearch=true
